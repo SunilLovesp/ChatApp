@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Chiku</string>
+    <string name="type_a_message">Type a message</string>
+    <string name="type_your_name">Type your name</string>
+</resources>
